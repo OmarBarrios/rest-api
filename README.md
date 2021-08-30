@@ -18,6 +18,7 @@ Esta aplicación necesita las siguientes variables de entorno:
 
 - ` PORT ` : puerto para el servidor
 - ` MONGO_ATLAS ` : url de conexion a la base de datos
+- ` SECRETORPRIVATEKEY ` : key para generar tokens
 
 ## Recursos
 
